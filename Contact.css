@@ -1,0 +1,361 @@
+@font-face{
+    font-family: japanesefont;
+    src: url(JapaneseRobotItalic-owwXz.ttf)
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1023px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 523px;
+  background-position: 0% 0%;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 413px;
+  left: 71px;
+  right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+.u-section-1 .u-image-1 {
+  height: 407px;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,1);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 945px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 0;
+}
+
+.u-section-1 .u-text-1 {
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+  font-size: 3.75rem;
+  font-weight: 200;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  background-image: none;
+  animation-duration: 1000ms;
+  margin: 19px 30px 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 30px 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 563px;
+  margin: 20px 33px 0 27px;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-input-1 {
+  font-family: "Jockey One";
+}
+
+.u-section-1 .u-label-2 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-input-2 {
+  font-family: "Jockey One";
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-input-3 {
+  font-family: "Jockey One";
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-4 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-input-4 {
+  font-family: "Jockey One";
+}
+
+.u-section-1 .u-label-5 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-input-5 {
+  font-family: "Jockey One";
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-label-6 {
+  font-family: "japanesefont";
+}
+
+.u-section-1 .u-btn-1 {
+  width: 100%;
+  border-style: none;
+  text-transform: uppercase;
+  font-family: "japanesefont";
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 7px 253px 0 267px;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  margin: 0 64px 0 78px;
+}
+
+.u-section-1 .u-btn-2 {
+  letter-spacing: 1px;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 27px auto 0 105px;
+  padding: 7px 17px 8px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 1.2em;
+}
+
+.u-section-1 .u-btn-3 {
+  letter-spacing: 1px;
+  animation-duration: 1000ms;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -45px 114px 0 auto;
+  padding: 7px 17px 8px;
+}
+
+.u-section-1 .u-icon-2 {
+  font-size: 1.2em;
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-5 {
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  width: 413px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 877px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 349px;
+    left: 42px;
+    margin-top: initial;
+    margin-bottom: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 444px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 779px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 36px;
+    margin-left: 217px;
+    margin-right: 203px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 14px;
+    margin-left: 28px;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 520px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 549px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 285px;
+    height: 447px;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+    margin: 0 auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 340px;
+    margin-top: -393px;
+    margin-bottom: 54px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 162px;
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 785px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 648px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 413px;
+    left: 42px;
+    right: auto;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 510px;
+    margin-top: 54px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 602px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 386px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 280px;
+    left: 0;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 270px;
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 991px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: 340px;
+  }
+}.contact-font {
+	font-family: japanesefont;
+}
+@font-face{
+    font-family: japanesefont;
+    src: url(JapaneseRobotItalic-owwXz.ttf)
+}

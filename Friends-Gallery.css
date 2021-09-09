@@ -1,0 +1,25 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 725px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Days One";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-custom-html-1 {
+  animation-duration: 1000ms;
+  margin: 30px auto 60px 0;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-custom-html-1 {
+    height: auto;
+    min-height: 507px;
+    width: 255px;
+    margin-top: 33px;
+    margin-left: auto;
+  }
+}

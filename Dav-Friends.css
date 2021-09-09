@@ -1,0 +1,2402 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 795px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  width: 726px;
+  font-family: "Days One";
+  text-shadow: 11px 6px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: italic;
+  width: 548px;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 0.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px 421px 0 465px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 1102px;
+  margin: 107px auto 54px;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: calc(20% - 20px) calc(20% - 20px) calc(20% - 20px) calc(20% - 20px) calc(20% - 20px);
+  min-height: 425px;
+  grid-gap: 25px 25px;
+}
+
+.u-section-1 .u-list-item-1 {
+  background-image: none;
+  box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.75);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-1 {
+  height: 180px;
+  margin-top: -62px;
+  margin-bottom: 0;
+  box-shadow: 7px 7px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 19px 34px 0 54px;
+}
+
+.u-section-1 .u-text-5 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px 6px 0 14px;
+}
+
+.u-section-1 .u-text-6 {
+  font-size: 1rem;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px 12px 0 20px;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-2 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-3 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-1 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 12px auto 0 28px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-3 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-4 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-item-2 {
+  box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.75);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 180px;
+  margin-top: -62px;
+  margin-bottom: 0;
+  box-shadow: 7px 7px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-7 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 19px 34px 0 54px;
+}
+
+.u-section-1 .u-text-8 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px 6px 0 14px;
+}
+
+.u-section-1 .u-text-9 {
+  font-size: 1rem;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px 12px 0 20px;
+}
+
+.u-section-1 .u-list-icon-5 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-6 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-7 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-5 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-social-icons-2 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 12px auto 0 28px;
+}
+
+.u-section-1 .u-icon-5 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-6 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-7 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-8 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-item-3 {
+  box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.75);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-3 {
+  height: 180px;
+  margin-top: -62px;
+  margin-bottom: 0;
+  box-shadow: 7px 7px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-10 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 19px 34px 0 54px;
+}
+
+.u-section-1 .u-text-11 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px 6px 0 14px;
+}
+
+.u-section-1 .u-text-12 {
+  font-size: 1rem;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px 12px 0 20px;
+}
+
+.u-section-1 .u-list-icon-9 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-10 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-11 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-9 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-social-icons-3 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 12px auto 0 28px;
+}
+
+.u-section-1 .u-icon-9 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-10 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-11 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-12 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-item-4 {
+  box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.75);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-4 {
+  height: 180px;
+  margin-top: -62px;
+  margin-bottom: 0;
+  box-shadow: 7px 7px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-13 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 19px 34px 0 54px;
+}
+
+.u-section-1 .u-text-14 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px 6px 0 14px;
+}
+
+.u-section-1 .u-text-15 {
+  font-size: 1rem;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px 12px 0 20px;
+}
+
+.u-section-1 .u-list-icon-13 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-14 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-15 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-13 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-social-icons-4 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 12px auto 0 28px;
+}
+
+.u-section-1 .u-icon-13 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-14 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-15 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-16 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-list-item-5 {
+  box-shadow: 10px 10px 20px 0 rgba(0,0,0,0.75);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-5 {
+  height: 180px;
+  margin-top: -62px;
+  margin-bottom: 0;
+  box-shadow: 7px 7px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-text-16 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 19px 34px 0 54px;
+}
+
+.u-section-1 .u-text-17 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px 6px 0 14px;
+}
+
+.u-section-1 .u-text-18 {
+  font-size: 1rem;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 22px 12px 0 20px;
+}
+
+.u-section-1 .u-list-icon-17 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-18 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-19 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-list-icon-17 {
+  color: currentcolor !important;
+}
+
+.u-section-1 .u-social-icons-5 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 12px auto 0 28px;
+}
+
+.u-section-1 .u-icon-17 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-18 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-1 .u-icon-19 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-1 .u-icon-20 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 321px;
+    margin-left: 365px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    min-height: 363px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 154px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 99px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: 168px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 154px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 99px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: 168px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 154px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 99px;
+  }
+
+  .u-section-1 .u-text-11 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-12 {
+    width: 168px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 154px;
+  }
+
+  .u-section-1 .u-text-13 {
+    margin-right: 0;
+    margin-left: 0;
+    width: 99px;
+  }
+
+  .u-section-1 .u-text-14 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-15 {
+    width: 168px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 154px;
+  }
+
+  .u-section-1 .u-text-16 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-17 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-18 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 211px;
+    margin-left: 255px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(33.3333% - 16.6667px) calc(33.3333% - 16.6667px) calc(33.3333% - 16.6667px);
+    min-height: 927px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 197px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 197px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 197px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 197px;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 197px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 121px;
+    margin-left: 165px;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 12.5px) calc(50% - 12.5px);
+    min-height: 1564px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 222px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 222px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 222px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 222px;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 222px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 21px;
+    margin-left: 65px;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    min-height: 2351px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 212px;
+    width: 246px;
+    margin-top: -63px;
+    margin-right: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-4 {
+    width: auto;
+    margin-top: 9px;
+    margin-right: 73px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: 118px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 16px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-image-2 {
+    height: 212px;
+    width: 246px;
+    margin-top: -63px;
+    margin-right: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: auto;
+    margin-top: 9px;
+    margin-right: 73px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-text-9 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: 118px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-social-icons-2 {
+    margin-top: 16px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 212px;
+    width: 246px;
+    margin-top: -63px;
+    margin-right: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-10 {
+    width: auto;
+    margin-top: 9px;
+    margin-right: 73px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-text-12 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: 118px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-social-icons-3 {
+    margin-top: 16px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-image-4 {
+    height: 212px;
+    width: 246px;
+    margin-top: -63px;
+    margin-right: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-13 {
+    width: auto;
+    margin-top: 9px;
+    margin-right: 73px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-text-15 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: 118px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-social-icons-4 {
+    margin-top: 16px;
+    margin-left: 100px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-image-5 {
+    height: 212px;
+    width: 246px;
+    margin-top: -63px;
+    margin-right: 40px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-text-16 {
+    width: auto;
+    margin-top: 9px;
+    margin-right: 73px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-text-18 {
+    width: auto;
+    margin-top: 18px;
+    margin-right: 118px;
+    margin-left: 54px;
+  }
+
+  .u-section-1 .u-social-icons-5 {
+    margin-top: 16px;
+    margin-left: 100px;
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 1623px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3.75rem;
+  width: 726px;
+  font-family: "Days One";
+  text-shadow: 11px 5px 8px rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-style: italic;
+  width: 548px;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 0.875rem;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px 421px 0 465px;
+}
+
+.u-section-2 .u-list-1 {
+  grid-template-rows: auto auto;
+  margin: 20px auto 0 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: 33.3333% 33.3333% 33.3333%;
+  grid-gap: 0px 0px;
+  min-height: 1798px;
+}
+
+.u-section-2 .u-list-item-1 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-1 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-4 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-5 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-6 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-1 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-2 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-3 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-4 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-1 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-2 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-3 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-4 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-2 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-2 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-7 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-8 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-9 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-5 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-6 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-7 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-8 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-2 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-5 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-6 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-7 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-8 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-3 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-3 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-3 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-6 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-10 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-11 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-12 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-9 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-10 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-11 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-12 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-3 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-9 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-10 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-11 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-12 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-4 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-7 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-4 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-4 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-8 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-13 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-14 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-15 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-13 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-14 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-15 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-16 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-4 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-13 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-14 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-15 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-16 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-5 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-9 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-5 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-5 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-10 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-16 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-17 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-18 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-17 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-18 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-19 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-20 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-5 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-17 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-18 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-19 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-20 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-6 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-11 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-6 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-6 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-12 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-19 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-20 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-21 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-21 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-22 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-23 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-24 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-6 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-21 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-22 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-23 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-24 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-7 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-13 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-7 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-7 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-14 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-22 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-23 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-24 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-25 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-26 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-27 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-28 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-7 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-25 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-26 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-27 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-28 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-8 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-15 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-8 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-8 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-16 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-25 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-26 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-27 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-29 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-30 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-31 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-32 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-8 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-29 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-30 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-31 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-32 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-list-item-9 {
+  box-shadow: 7px 7px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+}
+
+.u-section-2 .u-container-layout-17 {
+  padding: 30px 30px 0;
+}
+
+.u-section-2 .u-image-9 {
+  width: 320px;
+  height: 354px;
+  box-shadow: 12px 17px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: 0 auto 0 0;
+}
+
+.u-section-2 .u-group-9 {
+  width: 285px;
+  min-height: 316px;
+  background-image: none;
+  box-shadow: 13px 12px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  margin: -66px auto 0;
+}
+
+.u-section-2 .u-container-layout-18 {
+  padding: 0 20px;
+}
+
+.u-section-2 .u-text-28 {
+  text-transform: uppercase;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  font-family: "Days One";
+  margin: 20px auto 0;
+}
+
+.u-section-2 .u-text-29 {
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "New Rocker";
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 16px auto 0;
+}
+
+.u-section-2 .u-text-30 {
+  font-size: 1rem;
+  background-image: none;
+  width: 168px;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-list-icon-33 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-34 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-35 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-list-icon-36 {
+  color: currentcolor !important;
+}
+
+.u-section-2 .u-social-icons-9 {
+  white-space: nowrap;
+  height: 23px;
+  min-height: 16px;
+  width: 122px;
+  min-width: 94px;
+  margin: 47px auto 0;
+}
+
+.u-section-2 .u-icon-33 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-34 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-icon-35 {
+  height: 100%;
+  color: rgb(0, 230, 118) !important;
+}
+
+.u-section-2 .u-icon-36 {
+  height: 100%;
+  color: rgb(17, 17, 17) !important;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  border-style: none;
+  text-transform: uppercase;
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  animation-duration: 1000ms;
+  font-weight: 700;
+  font-family: "Days One";
+  margin: 38px auto 42px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 798px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 365px;
+    margin-right: 321px;
+  }
+
+  .u-section-2 .u-list-1 {
+    height: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    min-height: 1483px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 280px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-3 {
+    margin-top: 8px;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-9 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-5 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-5 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-11 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-6 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-6 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-13 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-7 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-7 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-15 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-8 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-8 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-container-layout-17 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-2 .u-image-9 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-group-9 {
+    width: 233px;
+    margin-top: -28px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    padding: 10px 66px 10px 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1145px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-left: 255px;
+    margin-right: 211px;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 50% 50%;
+    min-height: 2840px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 332px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-5 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-6 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-7 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-8 {
+    width: 263px;
+  }
+
+  .u-section-2 .u-group-9 {
+    width: 263px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2401px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 45px;
+    margin-left: 165px;
+    margin-right: 121px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 540px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: NaNpx;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-9 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-5 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-11 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-6 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-13 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-7 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-7 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-15 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-8 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-8 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-container-layout-17 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-image-9 {
+    height: 495px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-9 {
+    width: 430px;
+    margin-top: -131px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 45px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 2127px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+    font-size: 2.25rem;
+    margin-top: 25px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin: 25px 21px 50px 65px;
+  }
+
+  .u-section-2 .u-list-1 {
+    width: 340px;
+    margin-top: -50px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-2 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-3 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-7 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-4 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-4 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-9 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-5 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-5 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-11 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-6 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-6 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-13 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-7 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-7 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-15 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-8 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-8 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-container-layout-17 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-image-9 {
+    height: 337px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-group-9 {
+    width: 303px;
+    margin-top: -38px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-bottom: 25px;
+  }
+}
