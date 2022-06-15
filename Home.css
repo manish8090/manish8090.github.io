@@ -1,15 +1,18 @@
-.u-section-1 {
+ .u-section-1 {
   background-image: linear-gradient(#478ac9, #db545a);
-  min-height: 882px;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 474px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  width: calc(((100% - 1140px) / 2) + 1220px);
-  margin: 83px 0 60px;
+  width: 90%;
+  margin: 55px auto 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 683px;
+  min-height: 300px;
 }
 
 .u-section-1 .u-container-layout-1 {
