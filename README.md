@@ -1,9 +1,9 @@
-## MANISH WEBSITE 2.1
+## MS  WEBSITE 2.1
 
 ###### DETAILS & INFO ABOUT THIS SITE ######
 
   ```
-          MANISH WEBSITE 2.1
+          MS WEBSITE 2.1
   ```
 
 ###### 👉👉Welcome to My Website ######
