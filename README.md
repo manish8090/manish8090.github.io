@@ -1,12 +1,12 @@
 # MANISH WEBSITE 2.1 
-# DETAILS & INFO ABOUT THIS SITE
+* DETAILS & INFO ABOUT THIS SITE
 
 `MANISH WEBSITE 2.1 `
-# 👉👉Welcome to My Website
-## [👉👉CLICK HERE TO VISIT MY WEBSITE](https://manish8090.github.io/Home.html)
+** 👉👉Welcome to My Website
+** [👉👉CLICK HERE TO VISIT MY WEBSITE](https://manish8090.github.io/Home.html)
 
 
-# 👇My Info
+* 👇My Info
 
 ![Image](/images/manish-childhood.jpg)
 1. **NAME - MANISH KUMAR**
