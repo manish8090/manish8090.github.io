@@ -3,7 +3,7 @@
 ###### DETAILS & INFO ABOUT THIS SITE ######
 
   ```
-          M S WEBSITE 2.1
+          M S   WEBSITE 2.1
   ```
 
 ###### 👉👉Welcome to My Website ######
