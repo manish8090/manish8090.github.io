@@ -1,7 +1,7 @@
 
 let DATA = {};
 
-fetch("/resources/data.json")
+fetch("resources/data.json")
   .then(res => res.json())
   .then(data => {
     DATA = data;
