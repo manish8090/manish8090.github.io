@@ -41,14 +41,33 @@ html {
 }
 
 
+html, body {
+  background: #020617;
+}
 
 
 /* APPLY */
 body {
   background: var(--bg);
+  background-size: 120% 120%;
+  animation: bgMove 20s ease infinite alternate;
+
   color: var(--text);
   transition: 0.4s ease;
+  overscroll-behavior-y: none;
 }
+
+
+@keyframes bgMove {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+
 
 .glass {
   background: var(--card);
@@ -106,52 +125,7 @@ h1, .location, .status, .quote, footer {
 }
 
 
-/* 🌌 BACKGROUND */
-.bg {
-  position: fixed;
-  width: 100%;
-  height: 100%;
 
-  background: var(--bg);
-  
-  will-change: transform;
-
-  z-index: -2;
-  animation: bgMove 20s ease infinite alternate;
-}
-
-.bg::after {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-
-  background: radial-gradient(circle at 80% 20%, rgba(139,92,246,0.15), transparent 40%),
-              radial-gradient(circle at 20% 80%, rgba(34,197,94,0.12), transparent 40%);
-
-  mix-blend-mode: screen;
-  pointer-events: none;
-}
-
-
-body.light .bg::after {
-  background: radial-gradient(circle at 80% 20%, rgba(59,130,246,0.25), transparent 40%),
-              radial-gradient(circle at 20% 80%, rgba(16,185,129,0.2), transparent 40%);
-              mix-blend-mode: multiply;
-}
-
-
-
-@keyframes bgMove {
-  0% {
-    transform: scale(1);
-    filter: brightness(1);
-  }
-  100% {
-    transform: scale(1.05);
-    filter: brightness(1.1);
-  }
-}
 
 /* 🧘 HERO */
 .hero {
