@@ -35,6 +35,14 @@ body.light {
 }
 
 
+
+html {
+  background-color: #020617 !important;
+}
+
+
+
+
 /* APPLY */
 body {
   background: var(--bg);
