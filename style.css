@@ -69,9 +69,6 @@ body {
 
 
 
-.glass {
-  background: var(--card);
-}
 
 
 
@@ -212,10 +209,13 @@ h1 {
   max-width: 600px;
 
   background: var(--card);
-  backdrop-filter: blur(16px);
+  backdrop-filter: blur(12px);
 
   border-radius: 20px;
   border: 1px solid var(--border);
+
+  transform: translateZ(0);
+  will-change: transform;
 
   box-shadow: 0 20px 60px rgba(0,0,0,0.4);
 
