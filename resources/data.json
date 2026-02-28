@@ -42,7 +42,7 @@
     
     { "name": "Details", "icon": "document", "url": "resources/resume.pdf" },
     
-    { "name": "WhatsApp", "icon": "logo-whatsapp", "url": "https://api.whatsapp.com/send/?phone=918440825316", "class": "whatsapp" },
+    { "name": "WhatsApp", "icon": "logo-whatsapp", "url": "https://api.whatsapp.com/send/?phone=91XXXXXXXXX", "class": "whatsapp" },
     
     { "name": "Instagram", "icon": "logo-instagram", "url": "https://instagram.com/kumar_manish_1319", "class": "instagram" },
     
