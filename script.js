@@ -298,3 +298,20 @@ toggleBtn.addEventListener("click", () => {
 
 
 
+
+// 🔄 Fix loader when coming back (bfcache)
+window.addEventListener("pageshow", (event) => {
+  const loader = document.getElementById("loader");
+
+  if (loader) {
+    loader.classList.remove("show");
+  }
+});
+
+
+
+window.addEventListener("focus", () => {
+  const loader = document.getElementById("loader");
+  if (loader) loader.classList.remove("show");
+});
+
