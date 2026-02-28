@@ -1,0 +1,73 @@
+{
+  "settings": {
+    "showLinks": true,
+    "showThoughts": false,
+    "showQuote": true,
+    "showRoles": true
+  },
+
+  "profile": {
+    "name": "Manish Kumar",
+    "location": "Sitamarhi • Bihar • India",
+    "avatar": "resources/avatar.jpg"
+  },
+
+  "roles": {
+    "left": [
+      "A student",
+      "Ambidextrous",
+      "Ex-Vibrantian",
+      "Ex-Davian",
+      "19",
+      "An introvert"
+    ],
+    "right": [
+      "An Indian",
+      "A Staunch Atheist",
+      "A Thinker",
+      "Learning Everyday"
+    ]
+  },
+
+
+"websites": [
+  { "name": "Main Website", "url": "https://site1.com" },
+  { "name": "Portfolio", "url": "https://site2.com" }
+],
+
+
+
+  "links": [
+    { "name": "Website", "icon": "globe", "url": "#", "class": "website" },
+    
+    { "name": "Details", "icon": "document", "url": "resources/resume.pdf" },
+    
+    { "name": "WhatsApp", "icon": "logo-whatsapp", "url": "https://api.whatsapp.com/send/?phone=918440825316", "class": "whatsapp" },
+    
+    { "name": "Instagram", "icon": "logo-instagram", "url": "https://instagram.com/kumar_manish_1319", "class": "instagram" },
+    
+    { "name": "Snapchat", "icon": "logo-snapchat", "url": "https://www.snapchat.com/add/ms_1319js" },
+    
+    { "name": "GitHub", "icon": "logo-github", "url": "https://github.com/manish8090", "class": "github" },
+    
+    { "name": "Telegram", "icon": "paper-plane", "url": "https://t.me/Mr_john_1319", "class": "telegram" },
+    
+    { "name": "Email", "icon": "mail", "url": "mailto:manishmk1319@gmail.com" },
+    
+    { "name": "Paypal", "icon": "wallet", "url": "https://paypal.me/ms1319js" }
+  ],
+
+  "thoughts": [
+    "Silence is strength.",
+    "Discipline beats motivation.",
+    "Know yourself.",
+    "Peace comes from within."
+  ],
+
+  "quotes": [
+    "Silence is the language of the wise.",
+    "Peace comes from within.",
+    "Stillness reveals truth.",
+    "Detach, observe, and flow."
+  ]
+}
