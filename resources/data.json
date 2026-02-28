@@ -50,9 +50,9 @@
     
     { "name": "GitHub", "icon": "logo-github", "url": "https://github.com/manish8090", "class": "github" },
     
-    { "name": "Telegram", "icon": "paper-plane", "url": "https://t.me/Mr_john_1319", "class": "telegram" },
+    { "name": "Telegram", "icon": "paper-plane", "url": "https://t.me/manishk8090", "class": "telegram" },
     
-    { "name": "Email", "icon": "mail", "url": "mailto:manishmk1319@gmail.com" },
+    { "name": "Email", "icon": "mail", "url": "mailto:maneeshkr1319@gmail.com" },
     
     { "name": "Paypal", "icon": "wallet", "url": "https://paypal.me/ms1319js" }
   ],
