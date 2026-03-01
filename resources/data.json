@@ -40,7 +40,7 @@
   "links": [
     { "name": "Website", "icon": "globe", "url": "#", "class": "website" },
     
-    { "name": "Details", "icon": "document", "url": "resources/resume.pdf" },
+    { "name": "Details", "icon": "document", "url": "manish8090.dpdns.org/about-cv.html" },
     
     { "name": "WhatsApp", "icon": "logo-whatsapp", "url": "https://api.whatsapp.com/send/?phone=91XXXXXXXXX", "class": "whatsapp" },
     
